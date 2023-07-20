@@ -1,0 +1,16 @@
+.parrafo {
+    font-size: medium;
+}
+
+.parrafo1 {
+    font-size: small;
+    color: gray;
+}    
+.color {
+    background-color: #e0dddd;
+
+}
+.titulos{
+    color: rgb(73, 71, 71);
+    font-family:Arial, Helvetica, sans-serif;
+}
